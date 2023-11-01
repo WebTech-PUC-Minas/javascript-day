@@ -5,7 +5,7 @@ Repositório do evento JavaScript Day que ocorrerá no dia 06 de dezembro de 202
 
 Primeiro evento realizado pela **Webtech**, com foco em JavaScript. O momento será usado para lançar, oficialmente, o projeto WebTech, supervisionado pelo professor **Rommel Carneiro**. 
 
-Nesse issue irei comentar o processo da divulgação, prevista, pela equipe, para o dia 06 de novembro, ou seja, um mês antes do evento. 
+Nesse repositótio irei comentar o processo da divulgação, prevista, pela equipe, para o dia 06 de novembro, ou seja, um mês antes do evento. ALém disso, colocarei todo o processo de divulgação, com links e imagens.
 
 **Planejamento da divulgação:**
 
