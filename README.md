@@ -1,7 +1,7 @@
 # JavaScript-Day
 Repositório do evento JavaScript Day que ocorrerá no dia 06 de dezembro de 2023
 
-**Mensagem para o Luca**: Luca, tomei a liberdade de criar um issue para me organizar com o JavaScript Day. Espero que isso não te incomode. Caso haja algum problema, por favor, converse comigo. Abraços.
+**Mensagem para o Luca**: Luca, tomei a liberdade de criar um repositório para me organizar com o JavaScript Day. Espero que isso não te incomode. Caso haja algum problema, por favor, converse comigo. Abraços.
 
 Primeiro evento realizado pela **Webtech**, com foco em JavaScript. O momento será usado para lançar, oficialmente, o projeto WebTech, supervisionado pelo professor **Rommel Carneiro**. 
 
