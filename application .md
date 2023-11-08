@@ -23,7 +23,7 @@ with higher education institutions around the world and participates in several 
 
 ## Description
 
-WebTech is a Puc Minas project, lid and idealized by professor Rommel Carneiro. The project born from the desire of boost and enjoy the students of Software Enginner and Computer Science degrees, exercising it
+WebTech is a Puc Minas project, lead and idealized by professor Rommel Carneiro. The project born from the desire of boost and enjoy the students of Software Enginner and Computer Science degrees, exercising it
 on real professional situations. We started on first reunion in April|2023 and we already work with 12 students working on back end, front end, design and UX|UI areas.
 
 ## Statement of alignment with OpenJS Foundation charter and mission
