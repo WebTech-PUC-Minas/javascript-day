@@ -37,12 +37,12 @@ professor Rommel Carneiro. In this event we will officially open the project for
 ## List of all repos that are part of the project
 
 Here are the project github
-https://github.com/WebTech-PUC-Minas
+(https://github.com/WebTech-PUC-Minas)
 
-Here are all the repositores we work on
-git@github.com:WebTech-PUC-Minas/site-td.git
-git@github.com:WebTech-PUC-Minas/site-td-back.git
-git@github.com:WebTech-PUC-Minas/lab-openapi.git
+Here are all the repositores we work on:
+(git@github.com:WebTech-PUC-Minas/site-td.git)
+(git@github.com:WebTech-PUC-Minas/site-td-back.git)
+(git@github.com:WebTech-PUC-Minas/lab-openapi.git)
 
 ## Governance Structure
 ### Is there a leadership team?
@@ -71,7 +71,7 @@ All the participants are members of the project github, having access to every c
 
 ## Official Communication Channels
 
-Organization Email: webtech.pucminas@gmail.com
+Organization Email: (webtech.pucminas@gmail.com)
 
 ## Project Website
 
@@ -79,7 +79,7 @@ In production
 
 ## Social Media Accounts
 
-Instagram Account: https://www.instagram.com/webtech.pucminas/
+Instagram Account: (https://www.instagram.com/webtech.pucminas/)
 
 ## Existing Financial Sponsorship
 
